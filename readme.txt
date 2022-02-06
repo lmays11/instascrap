@@ -1,0 +1,1 @@
+After running and prompted, press 1 to set your original follower list to compare to. Press two to compare your current followers to the original follower list. 
